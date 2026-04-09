@@ -35,16 +35,11 @@ No estado atual, não há uso explícito de banco relacional (SQL) ou coleções
 
 Assim, o armazenamento efetivamente utilizado nesta versão está centrado na camada de autenticação do Firebase (contas e credenciais de acesso).
 
-## 5. Contas já cadastradas
-Para facilitar testes, existem duas contas de acesso já criadas:
+## 5. Conta já cadastrada
+Existe uma conta já criada:
 
-1. **beta@gmail.com**  
-   Senha: **beta@gmail.com**
-
-2. **alpha@gmail.com**  
-   Senha: **alpha@gmail.com**
-
-> Observação: conforme solicitado, em ambas as contas a senha é igual ao texto do próprio e-mail.
+1. **pedro@gmail.com**  
+   Senha: **123456**
 
 ## 6. Execução local
 No diretório `vite-project`, executar:
