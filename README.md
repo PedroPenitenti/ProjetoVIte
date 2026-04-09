@@ -1,9 +1,7 @@
-# Documentação do Projeto — Projeto Com Vite 3.0
+# Documentação do Projeto — Projeto Com Vite 
 
 ## 1. Visão geral
 Este projeto implementa uma aplicação web de autenticação de usuários com interface em React. O fluxo principal permite **cadastro**, **login** e **logout** com persistência de sessão, utilizando os serviços do Firebase.
-
-Do ponto de vista acadêmico, trata-se de um exemplo de aplicação cliente (front-end) orientada a componentes, com integração a um provedor externo de identidade.
 
 ## 2. Stack tecnológica
 A stack atual do projeto é composta por:
